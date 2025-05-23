@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://shashank317.github.io/Portfolio/",
+  "homepage": "https://shashank317.github.io/sha-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+    "deploy": "gh-pages -d dist" },
+
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",
     "emailjs-com": "^3.2.0",
