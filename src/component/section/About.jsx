@@ -44,7 +44,7 @@ export const About = () => {
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
               {/* Leave this space for your About Me text */}
-              [Your About Me goes here...]
+              [ skilled in Python, SQL, and data analysis. Experienced with Pandas, NumPy, Matplotlib, and Power BI to deliver actionable insights. Passionate about solving problems using data-driven approaches.]
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -141,53 +141,6 @@ export const About = () => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-            <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
-              <h3 className="text-xl font-bold mb-4">📊 Projects</h3>
-              <ul className="list-disc list-inside text-gray-300 space-y-2">
-                <li>
-                  <strong>Sales Dashboard and Customer Insights</strong> (Power BI,
-                  SQL)
-                  <ul className="list-disc ml-6">
-                    <li>
-                      Developed an interactive Power BI dashboard to track sales
-                      KPIs and customer trends.
-                    </li>
-                    <li>
-                      Extracted and transformed data using SQL to generate insights
-                      such as churn rate, revenue, and product performance.
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <strong>
-                    Employee Attrition Prediction Using Machine Learning
-                  </strong>{" "}
-                  (Python, Scikit-learn, Matplotlib, Seaborn)
-                  <ul className="list-disc ml-6">
-                    <li>
-                      Built a predictive model using Logistic Regression and Random
-                      Forest to predict employee attrition.
-                    </li>
-                    <li>
-                      Analyzed key factors like job satisfaction and overtime to
-                      determine the likelihood of attrition.
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <strong>Personal Portfolio Website</strong> (Django, HTML, CSS)
-                  <ul className="list-disc ml-6">
-                    <li>
-                      Designed a personal website to showcase my resume, project
-                      portfolio, and contact information.
-                    </li>
-                    <li>
-                      Deployed on PythonAnywhere with version control using Git.
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
               <h3 className="text-xl font-bold mb-4">🎓 Certifications</h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
